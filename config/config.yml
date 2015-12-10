@@ -1,0 +1,11 @@
+---
+db_host: localhost
+db_port: 27017
+db_database: NGSweather
+
+smarty:
+  template_dir: /view/smarty/templates
+  compile_dir: /view/smarty/templates_c;
+  cache_dir: /view/smarty/cache;
+  config_dir: /view/smarty/configs;
+...
